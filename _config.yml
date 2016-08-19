@@ -12,5 +12,9 @@ color:
     - '#D0E4F2'
 layout_spectrum: 0.7404049972537905
 name: Jonitron
+navigation:
+  - name: A place to find me.
+    url: 'http://jonitron.myportfolio.com/'
+    type: external
 title: Jonitron
 description: 'Photographs [among other things]'
