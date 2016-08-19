@@ -1,0 +1,14 @@
+layout_spectrum: 0.7404049972537905
+typography_spectrum: 0.5849139301571995
+color:
+  brandStrength: 0.9489394288975745
+  lightness: 0.3477667903061956
+  saturation: 0.4290693362709135
+  rhythmicContrast: 0.08155544498004019
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Jonitron
