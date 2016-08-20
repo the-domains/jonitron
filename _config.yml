@@ -16,6 +16,8 @@ layout_spectrum: 0.611017576418817
 author:
   name: Jonathan Roby
   email: jonitron@hotmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e51252d2-6cc9-43fe-8bb9-03c9f27f39a3.png
 name: Jonitron
 navigation:
   - name: A place to find me.
@@ -24,5 +26,5 @@ navigation:
   - name: Another Place
     url: 'https://500px.com/jonitron'
     type: external
-title: Jonitron
+title: 'Photography [among other things]'
 description: 'Photographs [among other things]'
