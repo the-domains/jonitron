@@ -21,7 +21,7 @@ navigation:
   - name: A place to find me.
     url: 'http://jonitron.myportfolio.com/'
     type: external
-  - name: 'Another '
+  - name: Another Place
     url: 'https://500px.com/jonitron'
     type: external
 title: Jonitron
