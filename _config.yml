@@ -1,6 +1,5 @@
-typography_spectrum: 0.5849139301571995
-content_rating:
-  adult: true
+layout_spectrum: 0.35352643951773643
+typography_spectrum: 0.14089634083211422
 color:
   brandStrength: 0.9489394288975745
   lightness: 0.3477667903061956
@@ -12,7 +11,8 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-layout_spectrum: 0.7404049972537905
+content_rating:
+  adult: true
 author:
   name: Jonathan Roby
   email: jonitron@hotmail.com
