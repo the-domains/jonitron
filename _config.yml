@@ -1,5 +1,6 @@
-layout_spectrum: 0.611017576418817
 typography_spectrum: 0.48179475707001984
+content_rating:
+  adult: true
 color:
   brandStrength: 0.9489394288975745
   lightness: 0.3477667903061956
@@ -11,8 +12,7 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-content_rating:
-  adult: true
+layout_spectrum: 0.611017576418817
 author:
   name: Jonathan Roby
   email: jonitron@hotmail.com
@@ -20,6 +20,9 @@ name: Jonitron
 navigation:
   - name: A place to find me.
     url: 'http://jonitron.myportfolio.com/'
+    type: external
+  - name: 'Another '
+    url: 'https://500px.com/jonitron'
     type: external
 title: Jonitron
 description: 'Photographs [among other things]'
