@@ -26,5 +26,7 @@ navigation:
   - name: Another Place
     url: 'https://500px.com/jonitron'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f72f1c9f-f705-4da0-a8de-ef5d81e4c9df.jpg
 title: 'Photography [among other things]'
 description: 'Photographs [among other things]'
